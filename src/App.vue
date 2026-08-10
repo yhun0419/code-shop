@@ -14,7 +14,7 @@ const menus = {
   cantonese: [
     { name: '金蒜蒸东星斑', desc: '陈年花雕 · 金蒜 · 葱油', price: '¥ 268', image: 'https://img.mingchu.co/ueditor/php/upload/image/20260128/69798c808398e.jpg' },
     { name: '黑叉烧拼盘', desc: '梅头肉 · 蜜汁 · 玫瑰露', price: '¥ 98', image: 'photo-1555939594-58d7cb561ad1' },
-    { name: '鲜虾云吞面', desc: '大地鱼汤 · 竹升面 · 韭黄', price: '¥ 58', image: 'public/images/shrimp-wonton-noodles.jpg' },
+    { name: '鲜虾云吞面', desc: '大地鱼汤 · 竹升面 · 韭黄', price: '¥ 58', image: '/images/shrimp-wonton-noodles.jpg' },
   ],
   hongkong: [
     { name: '港式避风塘炒蟹', desc: '蒜酥 · 辣椒 · 葱花', price: '¥ 188', image: 'photo-1565299624946-b28f40a0ae38' },
